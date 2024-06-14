@@ -1,1 +1,1 @@
-# shoify-test
+# Silver Pones Home Test Project
